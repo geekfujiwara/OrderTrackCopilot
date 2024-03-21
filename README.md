@@ -1,0 +1,2 @@
+# OrderTrack
+注文の配送状況の回答を行うCopilotです。Dataverse に保存されている注文情報をユーザーのEmailアドレスを元に直近1件を抽出して回答します。
