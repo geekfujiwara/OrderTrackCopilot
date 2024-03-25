@@ -36,7 +36,7 @@ https://github.com/geekfujiwara/OrderTrackCopilot/assets/96101315/dae0df91-bd47-
 
 # ソリューション
 
-[リリース](https://github.com/geekfujiwara/SupportCopilot/releases)ページからソリューションが入手できます。
+[リリース](https://github.com/geekfujiwara/OrderTrackCopilot/releases)ページからソリューションが入手できます。
 
 
 
